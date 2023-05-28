@@ -2,3 +2,5 @@ numpy
 pandas
 flask
 seaborn
+scikit-learn
+streamlit
