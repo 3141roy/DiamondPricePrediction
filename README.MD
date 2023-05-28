@@ -1,7 +1,7 @@
 
 # Diamond Price Prediction
 
-LINK : https://3141roy-diamondpriceprediction-appapp-zwjvg6.streamlit.app/
+LINK : https://3141roy-diamondpriceprediction.streamlit.app/
 
 The goal is to predict `price` of given diamond (Regression Analysis).
 
